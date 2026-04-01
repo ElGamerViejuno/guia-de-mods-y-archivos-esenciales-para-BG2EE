@@ -53,7 +53,7 @@ En esta guía intento recomendar mods que incluyan traducción al español, al m
 
 **[Almateria's Restoration Project](https://github.com/SpellholdStudios/Almaterias_Restoration_Project)** Diseñado para restaurar literalmente todos los sonidos no utilizados, así como algunos personajes o ubicaciones de corte menor.
 
-**[Quest Pack](https://www.pocketplane.net/quest-pack/)** Añade una serie de aventuras adicionales a lo largo de "Shadows of Amn" y "Throne of Bhaal".
+**[Quest Pack](https://drive.google.com/file/d/1yreKRnO-HRU8Y1OQc5E8N7LOc6o5z9YU)** Añade una serie de aventuras adicionales a lo largo de "Shadows of Amn" y "Throne of Bhaal".
 
 **[Assassinations](https://github.com/Pocket-Plane-Group/Assassinations)** Añade diez misiones y varias subquests al juego con algunos momentos muy turbios. Solo para personajes malvados.
 
